@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+myenv/
+# Ignore .mp4 files
+*.mp4
+
+# Ignore myenv/ directory
+myenv/
+
